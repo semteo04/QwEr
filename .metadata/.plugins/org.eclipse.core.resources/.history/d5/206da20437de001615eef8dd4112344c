@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class QWeR {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner aa=new Scanner(System.in);
+		aa.nextInt();
+		System.out.println(aa);
+	}
+
+}
